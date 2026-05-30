@@ -1,0 +1,13 @@
+# Pastas do PyInstaller
+build/
+dist/
+*.spec
+
+# Logs do nosso script
+*.log
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+.venv/
+venv/
