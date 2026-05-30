@@ -24,5 +24,3 @@ Como Usar: (Windows)
 
 3-Dê dois cliques no arquivo baixado, selecione a pasta desejada e clique em "OK (Organizar)".
 
-Opção 2: Rodando o Código-Fonte (Desenvolvedores)
-
